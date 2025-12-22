@@ -6,3 +6,4 @@ This is absolutely ridiculous.
 - Updated README.md
 - README.md with some updates
 - README.md file has had updates applied
+- Updated the README file
