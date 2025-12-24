@@ -8,3 +8,4 @@ This is absolutely ridiculous.
 - README.md file has had updates applied
 - Updated the README file
 - README.md file, with robust updated contents
+- A file named "README.md" that contains vital and up-to-date information on the repository
