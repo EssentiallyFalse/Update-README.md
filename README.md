@@ -9,3 +9,4 @@ This is absolutely ridiculous.
 - Updated the README file
 - README.md file, with robust updated contents
 - A file named "README.md" that contains vital and up-to-date information on the repository
+- README.md is capable of receiving updates
