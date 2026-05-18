@@ -11,3 +11,4 @@ This is absolutely ridiculous.
 - A file named "README.md" that contains vital and up-to-date information on the repository
 - README.md is capable of receiving updates
 - Edited `README.md` with updated information
+- Documented an update to `README.md`
